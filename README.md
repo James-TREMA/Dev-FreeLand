@@ -12,7 +12,6 @@ Je vous partage une base que j'ai fait en 30 minutes j'ai juste installé les pr
 
 # Chose faite sur la base FreeLand :
 
-    - Nous somme à la version finale de es_extended
          #Traduction [FR] du es_extended.
          #Rajout dans le config --> Point de spawn.
          #Rajout (Vous pouvez passé en license ou en steam).
