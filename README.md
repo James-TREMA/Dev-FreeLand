@@ -10,7 +10,7 @@ Je vous partage une base que j'ai fait en 30 minutes j'ai juste installé les pr
 - [etc..] 
 
 # Version ES_EXTENDED V1
-# Chose faite sur la base FreeLand :
+# Chose faite sur la base FreeLand:
 
          #Traduction [FR] du es_extended. 
          #Rajout dans le config --> Point de spawn.
