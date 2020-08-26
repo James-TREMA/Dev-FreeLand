@@ -3,13 +3,8 @@ Bonjour / Bonsoir
 Je vous partage une base que j'ai fait en 30 minutes j'ai juste installé les pré-requis & fait quelque rajout sur la version Final de es_extended.
 [Savoir]-->Base crée le [25/08/2020-->07:02] & à jour.
 
-
-# Il vous restera à mettre :
-- [Jobs] 
-- [Identité] 
-- [etc..] 
-
 # Version ES_EXTENDED V1
+
 # Chose faite sur la base FreeLand:
 
          #Traduction [FR] du es_extended. 
