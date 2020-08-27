@@ -1,15 +1,15 @@
 Config                            = {}
-Config.DrawDistance               = 100
+Config.DrawDistance               = 10 -- Distance (default 100)
 Config.MarkerColor                = {r = 120, g = 120, b = 240}
-Config.EnablePlayerManagement     = false -- enables the actual car dealer job. You'll need esx_addonaccount, esx_billing and esx_society
+Config.EnablePlayerManagement     = false -- (true) Permet le travail réel du concessionnaire automobile. Tu auras besoin esx_addonaccount, esx_billing & esx_society
 Config.ResellPercentage           = 50
 
-Config.Locale                     = 'fr'
+Config.Locale                     = 'fr' -- Lecture français
 
-Config.LicenseEnable = false -- require people to own drivers license when buying vehicles? Only applies if EnablePlayerManagement is disabled. Requires esx_license
+Config.LicenseEnable = false -- Obliger les gens à posséder un permis de conduire lors de l'achat de véhicules? S'applique uniquement si EnablePlayerManagement est désactivé. Requires esx_license
 
--- looks like this: 'LLL NNN'
--- The maximum plate length is 8 chars (including spaces & symbols), don't go past it!
+-- Ressemble à ça: 'LLL NNN'
+-- La longueur maximale de la plaque est de 8 caractères (espaces et symboles compris), ne la dépassez pas!
 Config.PlateLetters  = 3
 Config.PlateNumbers  = 3
 Config.PlateUseSpace = true
