@@ -10,7 +10,7 @@ Je vous partage une base que j'ai fait en 30 minutes j'ai juste installé les pr
          #Traduction [FR] du es_extended. 
          #Rajout dans le config --> Point de spawn.
          #Rajout (Vous pouvez passé en license ou en steam).
-         #Rajout money de départ dans le config (es_extended)
+         #Rajout money de départ dans le config (es_extended).
 
 
 
