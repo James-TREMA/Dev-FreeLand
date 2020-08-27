@@ -1,23 +1,23 @@
 Config                            = {}
 
-Config.DrawDistance               = 10.0 -- How close do you need to be for the markers to be drawn (in GTA units).
+Config.DrawDistance               = 10.0 --> Distance avant --> 100 [laissez à 10.0 = opti]
 Config.MarkerType                 = {Cloakrooms = 20, Armories = 21, BossActions = 22, Vehicles = 36, Helicopters = 34}
 Config.MarkerSize                 = {x = 1.5, y = 1.5, z = 0.5}
 Config.MarkerColor                = {r = 50, g = 50, b = 204}
 
-Config.EnablePlayerManagement     = true -- Enable if you want society managing.
+Config.EnablePlayerManagement     = true -- laissez true pour que le joueur sois le patron (false default)
 Config.EnableArmoryManagement     = true
-Config.EnableESXIdentity          = true -- Enable if you're using esx_identity.
-Config.EnableLicenses             = true -- Enable if you're using esx_license.
+Config.EnableESXIdentity          = true -- Activer si vous utilisez (oui) esx_identity.
+Config.EnableLicenses             = true -- Activer si vous utilisez (oui) esx_license.
 
-Config.EnableHandcuffTimer        = true -- Enable handcuff timer? will unrestrain player after the time ends.
+Config.EnableHandcuffTimer        = true -- Activer un temps, le temps écouler le joueurs pourra ce libérer des menottes
 Config.HandcuffTimer              = 10 * 60000 -- 10 minutes.
 
-Config.EnableJobBlip              = true -- Enable blips for cops on duty, requires esx_society.
-Config.EnableCustomPeds           = false -- Enable custom peds in cloak room? See Config.CustomPeds below to customize peds.
+Config.EnableJobBlip              = true -- Activer les blips pour les flics en service, nécessite esx_society.
+Config.EnableCustomPeds           = false -- Activer les peds skin dans le menu Cloakrooms (true)
 
-Config.EnableESXService           = false -- Enable esx service?
-Config.MaxInService               = -1 -- How much people can be in service at once?
+Config.EnableESXService           = true -- Activer si vous avez esx_service?
+Config.MaxInService               = -1 -- Pas touche
 
 Config.Locale                     = 'fr'
 
