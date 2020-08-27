@@ -50,6 +50,13 @@ ESX.ShowNotification = function(msg)
 	DrawNotification(0,1)
 end
 
+ESX.DrawMissionText = function(msg, time) -- Ajout pour RageUI etc..
+    ClearPrints()
+    BeginTextCommandPrint('STRING')
+    AddTextComponentSubstringPlayerName(msg)
+    EndTextCommandPrint(time, true)
+end
+
 ESX.ShowAdvancedNotification = function(sender, subject, msg, textureDict, iconType, flash, saveToBrief, hudColorIndex)
 	if saveToBrief == nil then saveToBrief = true end
 	AddTextEntry('esxAdvancedNotification', msg)

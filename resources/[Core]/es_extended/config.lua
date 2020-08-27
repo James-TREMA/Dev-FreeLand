@@ -7,6 +7,7 @@ Config.Accounts = {
 	money = _U('account_money')
 }
 
+Config.FirstSpawnCoords = {x = 706.74, y = 4184.98, z = 41.0528, heading = 204.5}  -- (Vous pouvez changer la position de départ de votre personnage)
 
 Config.StartingAccountMoney = {money = 20000, bank = 50000}		-- Ajout de la money au départ
 
@@ -15,7 +16,4 @@ Config.EnableHud            = true -- HUD --> Actif = true // Dé-activé --> fa
 Config.MaxWeight            = 24   -- (Poids) --> Vous pouvez porter 24 articles (9999 = infini)
 Config.PaycheckInterval     = 7 * 60000 -- Check le temps 7 = 7 minutes
 Config.EnableDebug          = false --> Active les logs es_extended (laissez sur false pas important, à par si vous faite le doublejob)
-
---> Rajout /!\ 
-Config.FirstSpawnCoords = {x = 706.74, y = 4184.98, z = 41.0528, heading = 204.5}  -- (Vous pouvez changer la position de départ de votre personnage)
 Config.PrimaryIdentifier	= "steam" -- Vous pouvez mettre (license, ou alors steam fivem recommande le steam)
