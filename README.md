@@ -4,6 +4,7 @@ Je vous partage une base que j'ai fait en 30 minutes j'ai juste installé les pr
 [Savoir]-->Base crée le [25/08/2020-->07:02] & à jour.
 
 # Version ES_EXTENDED V1
+         #Changer le spawn départ es_extended/config.lua --> Ligne 10.
 
 # Chose faite sur la base FreeLand:
 
